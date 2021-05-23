@@ -37,9 +37,9 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mohamedaymannaguib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="mohamedaymannaguib" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14880313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="14880313" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mo_ayman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="mo_ayman" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohamedaymannaguib" target="blank"><img align="center" src="https://github.com/hussainweb/hussainweb/blob/main/icons/linkedin.png" alt="mohamedaymannaguib" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14880313" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="14880313" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/mo_ayman" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="mo_ayman" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/7amasa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="7amasaa" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mohamedaymannaguib" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/leet-code.svg" alt="mohamedaymannaguib" height="30" width="40" /></a>
 </p>
