@@ -52,5 +52,3 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedaymann&show_icons=true&locale=en" alt="mohamedaymann" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedaymann&" alt="mohamedaymann" /></p>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=MohamedAymanN&show_icons=true&include_all_commits=true&theme=Dinky" alt="Mohamed's github stats" />
